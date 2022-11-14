@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning JavaScript and Python.
 - 🧠 Languages I am familiar with (relative perspective): HTML, CSS, C/C++, Python and Java.
 - 📫 Reach me through my email at alanjbacay@gmail.com
+- 🔥 Check out my FreeCodeCamp profile! > https://www.freecodecamp.org/alanbacay <
 
 <!---
 alanbacay02/alanbacay02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
