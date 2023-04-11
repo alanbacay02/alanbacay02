@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alan Bacay.
-- 🛠 I build user interfaces with React and Tailwind.
+- 🛠 I build user-interfaces with React and Tailwind.
 - 🎓 I am a Computer Engineering Graduate(2022).
 - 👀 I am pursuing a career in front-end development.
 - 📚 My Current Stack is: React, JavaScript, Tailwind, and NodeJS.
