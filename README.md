@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alan Bacay.
+- 👋 Hi, I’m [Alan Bacay](https://www.alanbacay.dev/).
 - 🛠 I build user-interfaces with React and Tailwind.
 - 🎓 I am a Computer Engineering Graduate (2022).
 - 👀 I am pursuing a career in front-end development.
